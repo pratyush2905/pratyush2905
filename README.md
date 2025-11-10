@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 I am a Third year Bachelor of Technology Computer Science student at Vellore Institute of Technology, Vellore.<br><br>🌱 I’m currently learning Next.js and other technologies related to it.<br><br>🔭 I am currently working on different personal fullstack projects and learning new stuff.<br><br>🧑‍💻 I have also worked as a frontend developer for a startup.​<br><br>💬 If you have any question/feedback, please do not hesitate to reach out to me!</p>
+<p align="left">🎓 I am a 4th year Bachelor of Technology Computer Science student at Vellore Institute of Technology, Vellore.<br><br>🌱 I’m currently learning Next.js and other technologies related to it.<br><br>🔭 I am currently working on different personal fullstack projects and learning new stuff.<br><br>🧑‍💻 I have also worked as a frontend developer for a startup.​<br><br>💬 If you have any question/feedback, please do not hesitate to reach out to me!</p>
 
 ###
 
