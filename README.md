@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/pratyush2905/pratyush2905/cf90e6ed96448b371d15167493b6201479552c72/header.svg"  />
-</div>
 
-###
-
-<h2 align="left">😄​ About Me</h2>
 
 ###
 
@@ -94,25 +88,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
 </div>
 
-###
-
-<h2 align="left">📊​ Github Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratyush2905&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pratyush2905&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">👀​ Visitors</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pratyush2905/count.svg?"  />
-</div>
-
-###
